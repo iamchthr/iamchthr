@@ -1,14 +1,12 @@
 <h1 align="center">Heloo 👋, I'm Chathura Hettihewa</h1>
 <h3 align="center">BSc IT (Hons) in Computer System and Networking Engineering (UG)</h3>
+<img src="https://tryhackme-badges.s3.amazonaws.com/iamchthr.png" alt="TryHackMe">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamchthr&label=Profile%20views&color=0e75b6&style=flat" alt="iamchthr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamchthr" alt="iamchthr" /></a> </p>
 
 - 🌱 I’m currently learning **CCNA , Linux**
-
-- <script src="https://tryhackme.com/badge/2074782"></script>
-<img src="https://tryhackme-badges.s3.amazonaws.com/iamchthr.png" alt="TryHackMe">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,9 +22,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/iamchthr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamchthr" /></a><a href="https://ko-fi.com/iamchthr"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="iamchthr" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamchthr&show_icons=true&locale=en&layout=compact" alt="iamchthr" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamchthr&show_icons=true&locale=en" alt="iamchthr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamchthr&" alt="iamchthr" /></p>
