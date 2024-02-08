@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **CCNA , Linux**
 
 - <script src="https://tryhackme.com/badge/2074782"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/iamchthr.png" alt="TryHackMe">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
