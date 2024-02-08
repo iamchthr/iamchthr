@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamchthr&label=Profile%20views&color=0e75b6&style=flat" alt="iamchthr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamchthr" alt="iamchthr" /></a> </p>
-
 - 🌱 I’m currently learning **CCNA , Linux**
 
 <h3 align="left">Connect with me:</h3>
