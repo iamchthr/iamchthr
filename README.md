@@ -1,4 +1,4 @@
-<h1 align="center">Heloo 👋, I'm Chathura Hettihewa</h1>
+<h1 align="center">Hello 👋, I'm Chathura Hettihewa</h1>
 <h3 align="center">BSc IT (Hons) in Computer System and Networking Engineering (UG)</h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/iamchthr.png" alt="TryHackMe">
 
